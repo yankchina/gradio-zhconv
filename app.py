@@ -14,4 +14,4 @@ interface = gr.Interface(
     outputs = 'text'
 )
 
-interface.launch(share=True)
+interface.launch(share=True,server_name = "0.0.0.0")

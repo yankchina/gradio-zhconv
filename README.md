@@ -4,3 +4,7 @@ A Chinese simplified and traditional conversion Web Application based on Gradio 
 
 - Gradio - 
 - Zhconv - [https://github.com/gumblex/zhconv](https://github.com/gumblex/zhconv)
+
+
+Application Snap
+![Snap Image](./docs/snap.png)
