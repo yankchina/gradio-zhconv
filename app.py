@@ -10,8 +10,8 @@ def convert_zh_string(in_string, target_type='zh-cn'):
 
 interface = gr.Interface(
     fn = convert_zh_string,
-    inputs = ['text','text'],
-    outputs = 'text'
+    inputs = ["text"],
+    outputs = "label"
 )
 
 interface.launch(share=True,server_name = "0.0.0.0")
